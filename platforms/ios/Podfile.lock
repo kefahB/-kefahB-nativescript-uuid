@@ -1,0 +1,16 @@
+PODS:
+  - SAMKeychain (1.5.3)
+
+DEPENDENCIES:
+  - SAMKeychain
+
+SPEC REPOS:
+  trunk:
+    - SAMKeychain
+
+SPEC CHECKSUMS:
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+
+PODFILE CHECKSUM: 1e78f1a791c7f7e46999ebaa1e81ee2da7b5772f
+
+COCOAPODS: 1.8.4
